@@ -1,0 +1,123 @@
+[
+    {
+        "_id": "fwqgevgdza",
+        "brandName": "toyota",
+        "brandModel": ["corolla", "camry", "rav4", "prius", "hilux"]
+    },
+    {
+        "_id": "fwqgevgdza",
+        "brandName": "ford",
+        "brandModel": ["mustang", "escape", "explorer", "f-150", "focus"]
+    },
+    {
+        "_id": "fwqgevgdza",
+        "brandName": "honda",
+        "brandModel": ["civic", "cr-v", "accord", "fit", "pilot"]
+    },
+    {
+        "_id": "fwqgevgdza",
+        "brandName": "chevrolet",
+        "brandModel": ["malibu", "silverado", "equinox", "cruze", "impala"]
+    },
+    {
+        "_id": "fwqgevgdza",
+        "brandName": "volkswagen",
+        "brandModel": ["golf", "jetta", "passat", "tiguan", "atlas"]
+    },
+    {
+        "_id": "fwqgevgdza",
+        "brandName": "bmw",
+        "brandModel": ["x3", "7 series", "5 series", "x5", "x6"]
+    },
+    {
+        "_id": "fwqgevgdza",
+        "brandName": "mercedes benz",
+        "brandModel": ["c class", "s class", "gle", "glc", "e class"]
+    },
+    {
+        "_id": "fwqgevgdza",
+        "brandName": "audi",
+        "brandModel": ["a3", "a4", "q5", "a6", "q7"]
+    },
+    {
+        "_id": "fwqgevgdza",
+        "brandName": "hyundai",
+        "brandModel": ["sonata", "elantra", "tucson", "santa fe", "kona"]
+    },
+    {
+        "_id": "fwqgevgdza",
+        "brandName": "kia",
+        "brandModel": ["optima", "sorento", "sportage", "soul", "forte"]
+    },
+    {
+        "_id": "fwqgevgdza",
+        "brandName": "subaru",
+        "brandModel": ["outback", "legacy", "crosstrek", "impreza", "forester"]
+    },
+    {
+        "_id": "fwqgevgdza",
+        "brandName": "mazda",
+        "brandModel": ["mazda3", "mazda6", "cx-5", "cx-9", "mx-5 miata"]
+    },
+    {
+        "_id": "fwqgevgdza",
+        "brandName": "jeep",
+        "brandModel": ["compass", "grand cherokee", "cherokee", "renegade", "wrangler"]
+    },
+    {
+        "_id": "fwqgevgdza",
+        "brandName": "volvo",
+        "brandModel": ["xc40", "v60", "xc60", "s60", "xc90"]
+    },
+    {
+        "_id": "fwqgevgdza",
+        "brandName": "dodge",
+        "brandModel": ["challenger", "charger", "journey", "grand caravan", "durango"]
+    },
+
+    {
+        "_id": "fwqgevgdza",
+        "brandName": "lexus",
+        "brandModel": ["ls", "nx", "es", "is", "rx"]
+    },
+    {
+        "_id": "fwqgevgdza",
+        "brandName": "porsche",
+        "brandModel": ["porsche 911", "cayenne", "panamera", "boxster", "macan"]
+    },
+    {
+        "_id": "fwqgevgdza",
+        "brandName": "bentley",
+        "brandModel": ["arnage", "continental gt", "bentayga", "mulsanne", "flying spur"]
+    },
+    {
+        "_id": "fwqgevgdza",
+        "brandName": "maserati",
+        "brandModel": ["quattroporte", "levante", "granturismo", "grancabrio", "ghibli"]
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
